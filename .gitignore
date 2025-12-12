@@ -39,3 +39,12 @@
 
 # debug information files
 *.dwo
+
+build/
+
+Makefile
+*.make
+*.cmake
+*.marks
+*.ts
+link.txt
