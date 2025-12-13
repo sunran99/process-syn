@@ -97,6 +97,6 @@ int main() {
     for (auto& pfd : fds) {
         close(pfd.fd);
     }
-    
+    std::cout << "服务器已关闭" << std::endl;
     return 0;
 }
