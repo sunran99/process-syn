@@ -48,3 +48,5 @@ Makefile
 *.marks
 *.ts
 link.txt
+.vscode/
+log/
